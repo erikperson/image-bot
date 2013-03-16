@@ -1,0 +1,9 @@
+app_name: ImageBot
+client_id: 915b06d2524a5e178446
+client_secret: 9fbcb1872685a9c0a4799905051930c5a774fcb9
+state: db975ce162b664419fc9d54f11763658a5baa
+repo_owner: erikperson
+repo_name: bot-images
+bot_username: imagebot
+bot_password: iamabot1
+branch: bot

@@ -1,0 +1,9 @@
+app_name: <Name of app registered with Github>
+bot_username: <Bot's username on Github>
+bot_password: <Bot's password>
+branch: bot
+client_id: <Get this from Github>
+client_secret: <Get this from Github>
+state: <Random/unguessable string>
+repo_owner: <Github user/org name owning the repository>
+repo_name: <Repository name>
